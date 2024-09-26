@@ -1,6 +1,13 @@
 # TV App Development Workshop with React Native
 
-## Duration: 2 hours
+Unlock the World of TV App Development with React Native!
+Are you ready to expand your development skills to the big screen? Join us for an exciting workshop on TV App Development with React Native!
+What You'll Learn:
+
+Build cross-platform TV apps for Android TV, Fire TV, tvOS, and Web
+Master focus management for intuitive TV navigation
+Create engaging user interfaces for TV.
+Implement video playback for a true TV app experience
 
 ### Target Audience: 
 JavaScript developers and React Native developers interested in TV app development
