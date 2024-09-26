@@ -1,18 +1,19 @@
-# TV App Development Workshop with React Native
+# 📺🚀 TV App Development Workshop with React Native
 
 Unlock the World of TV App Development with React Native!
-Are you ready to expand your development skills to the big screen? Join us for an exciting workshop on TV App Development with React Native!
-What You'll Learn:
+Are you ready to expand your development skills to the big screen? Join us for an interesting workshop on TV App Development with React Native!
 
-Build cross-platform TV apps for Android TV, Fire TV, tvOS, and Web
-Master focus management for intuitive TV navigation
-Create engaging user interfaces for TV.
-Implement video playback for a true TV app experience
+🛠️ What we'll hack on:
 
-### Target Audience: 
+🌐 Build cross-platform TV apps for Android TV, Fire TV, tvOS, and Web
+🎯 Focus management for TV navigation
+🖼️ Create engaging user interfaces for TV.
+🎬 Video playback implementation
+
+### 👥 Target Audience: 
 JavaScript developers and React Native developers interested in TV app development
 
-### Schedule:
+### 🗓️ Schedule:
 
 1. **Introduction**
    - Brief overview of React Native for TV platforms
@@ -58,7 +59,7 @@ JavaScript developers and React Native developers interested in TV app developme
    - Discuss potential use cases and customizations
    - Provide resources for further learning React Native and TV app development
 
-### Materials Needed:
+### 🧰 Materials Needed:
 - Computers with Node.js, npm, and JDK 17 installed
 - Android TV emulator or physical device for testing
 - Optional: tvOS Simulator (for participants with Macs)
