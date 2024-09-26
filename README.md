@@ -1,6 +1,7 @@
 # 📺🚀 TV App Development Workshop with React Native
 
-Unlock the World of TV App Development with React Native!
+![](https://raw.githubusercontent.com/giolaq/TVAppDevWithrRNW/refs/heads/main/workshoptv.webp)
+
 Are you ready to expand your development skills to the big screen? Join us for an interesting workshop on TV App Development with React Native!
 
 🛠️ What we'll hack on:
