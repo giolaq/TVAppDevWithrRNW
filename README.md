@@ -5,10 +5,10 @@ Are you ready to expand your development skills to the big screen? Join us for a
 
 🛠️ What we'll hack on:
 
-🌐 Build cross-platform TV apps for Android TV, Fire TV, tvOS, and Web
-🎯 Focus management for TV navigation
-🖼️ Create engaging user interfaces for TV.
-🎬 Video playback implementation
+   1. 🌐 Build cross-platform TV apps for Android TV, Fire TV, tvOS, and Web
+   2. 🎯 Focus management for TV navigation
+   3. 🖼️ Create engaging user interfaces for TV
+   4. 🎬 Video playback implementation
 
 ### 👥 Target Audience: 
 JavaScript developers and React Native developers interested in TV app development
