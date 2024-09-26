@@ -65,6 +65,6 @@ JavaScript developers and React Native developers interested in TV app developme
 - Optional: tvOS Simulator (for participants with Macs)
 
 ### Pre-workshop Preparation:
-- Participants should clone the repository and install dependencies before the workshop
+- Participants should clone this [repository](https://github.com/AmazonAppDev/react-native-multi-tv-app-sample) and install dependencies before the workshop
 - Ensure all prerequisites are met (Node.js, npm, JDK 17)
 - For JS developers: Provide a quick guide on setting up React Native development environment
